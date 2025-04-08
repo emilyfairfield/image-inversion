@@ -1,0 +1,6 @@
+.git/
+.venv/
+image-inversion-env/
+flowers/
+*.jpg
+cropped/
